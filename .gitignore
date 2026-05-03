@@ -115,3 +115,8 @@ emsymbolizer.exe
 tools/file_packager.exe
 tools/webidl_binder.exe
 test/runner.exe
+
+# .NET build
+.dotnet/
+.packages/
+artifacts/
